@@ -1,8 +1,8 @@
 {
-    "name": "rahamatjahan/php-mvc-crud",
+    "name": "masud/advance-php-mvc-oop",
     "type": "project",
-    "description": "This is a PHP CRUD following the MVC architectural pattern.",
-    "homepage": "https://github.com/rahamatjahan/php-mvc-crud",
+    "description": "An advanced example project by using PHP Language, OOP Principles, and MVC Design Pattern standards.",
+    "homepage": "https://github.com/masudncse/advance-php-mvc-oop",
     "license": "MIT",
     "autoload": {
         "classmap": [
