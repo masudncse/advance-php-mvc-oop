@@ -16,7 +16,7 @@ This is a PHP CRUD following the MVC architectural pattern.
 * ```git clone https://github.com/masudncse/advance-php-mvc-oop.git```
 * ```cd advance-php-mvc-oop```
 * Create a database called ```advance_php_mvc_oop```
-* Change database configurations in ```config/database.php``` if necessary.
+* Change .env file if necessary.
 * Edit the ```config/app.php```. The app won't work if you don't put the url field properly.
 * ```composer install```
 * ```php run migrate all```
